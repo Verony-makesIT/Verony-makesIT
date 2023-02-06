@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Verony-makesIT
 - 👀 I’m interested in making IT things work
-- 🌱 I’m currently learning to develop Nextcloud apps
-- 💞️ I’m looking to collaborate on Nextcloud accounting apps...
+- 🌱 I’m currently learning developing Nextcloud apps
+- 💞️ I’m looking to collaborate on Nextcloud apps...
 - 📫 How to reach me ...
 
 <!---
