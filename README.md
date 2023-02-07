@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Verony-makesIT
-- 👀 I’m interested in making IT things work but I have still a lot to learn
+- 👀 I’m interested in making IT things work but I still have a lot to learn
 - 🌱 I’m currently trying to improve some InvoicePlane modules 
-- 💞️ I’m looking to collaborate on Nextcloud apps...
+- 💞️ and I would like to work with others to set up Invoiceplane as an app in Nextcloud
 - 📫 How to reach me ...
 
 <!---
